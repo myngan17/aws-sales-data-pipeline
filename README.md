@@ -2,7 +2,7 @@
 
 ## 🗄️ Data Source
 
-- Kaggle: 'Beverage Sales' dataset (simulated data, ~1.1GB)
+- Kaggle: 'Beverage Sales' by SWillm (simulated data, ~1.1GB)
 - Period: 11/2020 – 02/2024, region: Germany
 - Link data: https://www.kaggle.com/datasets/sebastianwillmann/beverage-sales/data
 
